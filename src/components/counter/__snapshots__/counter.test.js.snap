@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot: el 1`] = `
+<my-counter>
+  
+        Count: 
+  <span>
+    0
+  </span>
+  
+        
+  <button
+    on:click="this.increment()"
+  >
+    +1
+  </button>
+  
+    
+</my-counter>
+`;
+
+exports[`snapshot: vm 1`] = `
+Object {
+  "count": 0,
+}
+`;

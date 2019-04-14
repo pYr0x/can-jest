@@ -1,0 +1,23 @@
+{
+  "name": "can-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1",
+    "jest-dom": "^3.1.3",
+    "jest-trailing-slash-resolver": "0.0.2",
+    "pretty-format": "^24.7.0"
+  },
+  "dependencies": {
+    "can": "^5.23.0"
+  }
+}
