@@ -1,3 +1,5 @@
+# tesing with jest
+
 1. use dependencies in `package.json`
 2. use new babel `babel.config.js` (for babel 7+)
 3. use jest config `jest.config.js`
